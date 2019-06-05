@@ -3,9 +3,13 @@ Algoritmos y Estructuras de datos
 Trabajo Final
 -------------
 ### Integrantes
-* --
+* Elio Campos
+* Víctor Fajardo
 ### Introducción
-_Motivación, Problema general, Solución general, Lo que se espera_
+#### Motivación
+#### Problema general
+#### Solución general
+
 ### Problema
 
 ### Objetivos
