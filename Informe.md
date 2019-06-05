@@ -7,7 +7,9 @@ Trabajo Final
 * Víctor Fajardo
 ### Introducción
 #### Motivación
+La motivación general que propicia querer darle solución a este problema es adquirir la capacidad de diseñar un sistema y componentes adecuados para una estructura de datos, así como obtener y emplear nuevos conocimientos respecto al tema.
 #### Problema general
+
 #### Solución general
 
 ### Problema
