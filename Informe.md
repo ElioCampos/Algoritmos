@@ -19,7 +19,10 @@ _Ver taxonomía de Bloom para seleccionar verbos_
 _Objetivo general: Da solución al problema_
 _Objetivos específicos: analizar, diseñar, implementar solución_
 ### Marco conceptual
-_Copypaste Dataframes, ordenamiento, búsqueda, árboles_
+#### Dataframes
+Un DataFrame es una estructura de datos tabular bidimensional, potencialmente heterogénea, con ejes etiquetados (filas y columnas). Se trata de una estructura de datos bidimensional, es decir, los datos se alinean de forma tabular en filas y columnas. El dataFrame consta de tres componentes principales: los datos, las filas y las columnas.
+#### Algoritmos de ordenamiento
+Se trata de un algoritmo que pone elementos de una lista o un vector en una secuencia previamente dada por una relación de orden, es decir, el resultado de salida debe tratarse de un reordenamiento (permutació) de la entrada que satisfaga la relación de orden dada. 
 ``` c++
 int main() {
   return 0;
